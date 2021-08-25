@@ -1,4 +1,4 @@
-//given numbers in an array print the average of even numbers .
+//given numbers in an array print the average of even numbers.
 
 var numbers = [1,2,3,4,5,6,7,8,9];
 var sum = 0;
