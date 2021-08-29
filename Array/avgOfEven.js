@@ -11,4 +11,4 @@ for (i = 0; i < numbers.length; i++) {
   }
 
 }
-console.log(sum/count);
+ console.log(sum/count);
