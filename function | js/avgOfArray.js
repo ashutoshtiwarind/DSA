@@ -4,8 +4,8 @@ function avgOfArray(array) {
   for (i = 0; i < array.length; i++) {
     sum = sum + array[i];
     count++;
-    
   }
+  
   if(array.length == 0) {
     return 0;
   }
