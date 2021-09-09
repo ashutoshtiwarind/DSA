@@ -4,5 +4,4 @@ function multiplicationTableN(num) {
      console.log(num * i);
 
    }
-    
 }
