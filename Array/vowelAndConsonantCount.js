@@ -12,4 +12,4 @@ for (i = 0; i < str.length; i++) {
     //console.log("consonant_count " + consonant_count);
   }
 }
-console.log(vowel_count + " " + consonant_count);
+ console.log(vowel_count + " " + consonant_count);
