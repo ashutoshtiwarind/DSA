@@ -14,4 +14,4 @@ function avgOfArray(array) {
     return avg;
   }
 }
- console.log(avgOfArray([]))
+console.log(avgOfArray([]))
