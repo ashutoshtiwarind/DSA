@@ -13,9 +13,5 @@ for (i = 2; i < b; i++){
     flag_a = false;  
   }
 }
-if (flag_a) {
-  console.log("True");
-}
-else {
-  console.log("False");
-}
+if (flag_a) console.log("True");
+else console.log("False");
