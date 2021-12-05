@@ -1,6 +1,6 @@
 let a = 3;
 let b = 5;
-var flag_a = true;
+let flag_a = true;
 //var flag_b = true;
 
 for (i = 2; i < a; i++){
