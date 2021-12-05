@@ -1,5 +1,5 @@
-var a = 3;
-var b = 5;
+let a = 3;
+let b = 5;
 var flag_a = true;
 //var flag_b = true;
 
