@@ -7,7 +7,7 @@ for (i = 2; i < a; i++){
     flag_a = false;  
   }
 }
-for (i = 2; i < b; i++){
+for (i = 2; i < b; i++) {
   if (b % i == 0) {
     flag_a = false;  
   }
