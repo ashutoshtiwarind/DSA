@@ -47,8 +47,6 @@ function vowelsAndConsonants(s) {
     // }
     console.log(cons);
 }
-
-
 function main() {
     const s = readLine();
     
