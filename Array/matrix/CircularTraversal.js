@@ -1,7 +1,6 @@
 /*
 https://oj.masaischool.com/contest/2081/problem/07
 */
-    
 function cirTraversal(matrix,N) {
     let output = "";
     for (let r = N-1; r >= 0; r--){
