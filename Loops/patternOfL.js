@@ -1,5 +1,4 @@
 var num = 3;
-
 for (i = 1; i <= num; i++) {
   output = "";
   for (j = 1; j <= num; j++) {
