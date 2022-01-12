@@ -6,6 +6,7 @@ Next 100 units                                              Rs 5 per unit
 After 200 units                                             Rs 10 per unit
 (For example if input unit is 350 than total bill amount is Rs2000)
 
+
 amt=0
 nu=int(input("Enter number of electric unit"))
 if nu<=100:
