@@ -1,6 +1,5 @@
 var N = 7;
 
-
 var str = "nasa man";
 var rev = "";
 
