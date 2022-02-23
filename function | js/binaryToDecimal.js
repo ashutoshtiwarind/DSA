@@ -1,7 +1,7 @@
 /*
 Binary to Decimal
 Given any binary number convert it into decimal format
-Sample Input - 10001
+Sample Input - 10001  
 Sample Output - 17
 */
 function binaryToDecimal(number) {
