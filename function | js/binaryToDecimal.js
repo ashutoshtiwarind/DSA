@@ -5,6 +5,7 @@ Sample Input - 10001
 Sample Output - 17
 */
 function binaryToDecimal(number) {
+  
   var sum = 0;
   var length = number.toString().length - 1;
   while (number > 0) {
