@@ -21,3 +21,4 @@ function binaryToDecimal(number) {
 }
 
 console.log(binaryToDecimal(1101111));
+
