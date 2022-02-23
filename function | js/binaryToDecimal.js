@@ -11,6 +11,7 @@ function binaryToDecimal(number) {
   while (number > 0) {
     for (i = 0; i <= length ; i++){
       var digital = 0;
+      
       digital = digital + number % 10;
       digital = (digital * 2) ** i;
       sum = sum + digital;
