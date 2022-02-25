@@ -4,6 +4,7 @@ let b = 5;
 let flag_a = true;
 
 for (i = 2; i < a; i++){
+  
   if (a % i == 0) {
     flag_a = false;  
   }
